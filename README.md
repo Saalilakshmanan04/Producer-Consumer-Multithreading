@@ -57,4 +57,4 @@ Execution order may vary due to thread scheduling.
 
 ## Conclusion
 
-This project provides a clear understanding of Java multithreadin
+This project provides a clear understanding of Java multithreading
