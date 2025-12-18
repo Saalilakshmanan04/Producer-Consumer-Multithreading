@@ -31,11 +31,11 @@ It demonstrates how multiple threads can safely share data using synchronization
 ---
 
 ## Project Structure
-Producer-Consumer-Multithreading
-Buffer.java
-Producer.java
-Consumer.java
-Main.java
+Producer-Consumer-Multithreading:
+- Buffer.java
+- Producer.java
+- Consumer.java
+- Main.java
 
 ----
 ## Working Explanation
